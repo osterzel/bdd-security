@@ -2,4 +2,4 @@ pipeline:
   build:
     image: openjdk:8-jdk 
     commands:
-      - gradlew
+      - ./gradlew
